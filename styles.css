@@ -21,6 +21,7 @@ body {
   flex-direction: column;
   gap: 40px;
   padding: 20px;
+  margin: 0 auto;
 }
 
 .container h1 {
